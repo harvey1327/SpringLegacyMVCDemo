@@ -8,5 +8,7 @@
 </head>
 <body>
 <p>Just a Demo Page</p>
+<p>${message}</p>
+<p>${from}</p>
 </body>
 </html>
