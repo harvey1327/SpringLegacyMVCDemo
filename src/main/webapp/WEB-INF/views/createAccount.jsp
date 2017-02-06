@@ -40,6 +40,6 @@
 		</td></tr>
 	</table>
 </form:form>
-
+<p>${location}</p>
 </body>
 </html>
